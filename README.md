@@ -11,7 +11,7 @@ We will cover the following topics:
 * November 7: Writing your own functions
 * November 14: Intro to parallel processing
 
-Click on the topis above to navigate to the linked GitHub repository.
+Click on the topics above to navigate to the linked GitHub repository.
 
 
 # Materials and Setup
