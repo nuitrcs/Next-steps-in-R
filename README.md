@@ -6,8 +6,8 @@ We will cover the following topics:
 
 * October 10: [RStudio projects and other special features of the app](https://github.com/hscarter/RStudio_Workshop)
 * October 17: [Using Git in RStudio for version control](https://github.com/nuitrcs/git-RStudio)
-* October 24: Making multi-panel figures in ggplot2
-* October 31: Applying themes in ggplot2
+* October 24: [Making multi-panel figures with ggplot2](https://github.com/hscarter/Multipanel_Figures_Workshop)
+* October 31: [Applying themes in ggplot2](https://github.com/hscarter/ggplot2_Themes_Workshop)
 * November 7: Writing your own functions
 * November 14: Intro to parallel processing
 
