@@ -8,8 +8,8 @@ We will cover the following topics:
 * October 17: [Using Git in RStudio for version control](https://github.com/nuitrcs/git-RStudio)
 * October 24: [Making multi-panel figures with ggplot2](https://github.com/hscarter/Multipanel_Figures_Workshop)
 * October 31: [Applying themes in ggplot2](https://github.com/hscarter/ggplot2_Themes_Workshop)
-* November 7: Writing your own functions
-* November 14: Intro to parallel processing
+* November 7: [Writing your own functions](https://github.com/ritika-giri/R-workshop-writing-your-own-functions)
+* November 14: [Intro to parallel processing](https://github.com/ritika-giri/R-workshop-intro-to-parallel-processing)
 
 Click on the topics above to navigate to the linked GitHub repository.
 
