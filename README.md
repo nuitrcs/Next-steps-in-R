@@ -20,6 +20,7 @@ Click on the topics above to navigate to the linked GitHub repository.
 
 [How to set up R and RStudio](https://sites.northwestern.edu/researchcomputing/resources/r-and-rstudio/)
 
+
 # Zoom Recordings
 
 * [Oct 10, 2023 Recording - RStudio projects](https://northwestern.zoom.us/rec/share/SeD8nm18OytDo9juEq33CT0sQTBpjVXtwKQZNNPUJb7T27zvrHPFflcX4qKTmgb_.VL2VZLZi0BrjUHCE)
