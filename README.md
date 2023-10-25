@@ -22,6 +22,7 @@ Click on the topics above to navigate to the linked GitHub repository.
 
 
 # Zoom Recordings
+Please sign in to your Northwestern Zoom account in order to view the recordings. These are password-protected and only registered participants of the workshop will have access.
 
 * [Oct 10, 2023 Recording - RStudio projects](https://northwestern.zoom.us/rec/share/SeD8nm18OytDo9juEq33CT0sQTBpjVXtwKQZNNPUJb7T27zvrHPFflcX4qKTmgb_.VL2VZLZi0BrjUHCE)
 * [Oct 17, 2023 Recording - Git in RStudio](https://northwestern.zoom.us/rec/share/rr1xH9zds4y3y1usXz9l0Ml0oZx0qJFhqMYkkDmiY_O0_xGIsZZObDWD5VCrJA8P.lpgKkk9OQetJsgYp)
