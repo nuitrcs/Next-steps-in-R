@@ -29,3 +29,4 @@ Please sign in to your Northwestern Zoom account in order to view the recordings
 * [Oct 24, 2023 Recording - Multi-panel figures with ggplot2](https://northwestern.zoom.us/rec/share/aHAZYBVMJwoAf8_z-7pne9tx__JOPquRi1P3f0Kn-PUz6UGitd4eNRPdntiXi2Wi.9nU2uZ7BbR6Vh8PC)
 * [Oct 31, 2023 Recording - Applying themes in ggplot2](https://northwestern.zoom.us/rec/share/nsuS9ynge7fN-uC7Z-s41rEaNbI0-F8aTBPLu9bdOyEp0ub8Bqe9LuV9zWBcJpv3.8y5-FePfnK5ty3Zh)
 * [Nov 07, 2023 Recording - Writing your own functions](https://northwestern.zoom.us/rec/share/iohiw_icX8b2a_0beROyxzJR3lhYlglkGJJMQW_Nv-Us6y7B7_PDIs1SErnXGAhS.HQVIT413ythiaIHU)
+* [Nov 14, 2023 Recording - Intro to Parallel Processing](https://northwestern.zoom.us/rec/share/ksXjKJeQzSEd7dj2E067wHqkB6NTZ3Q4d0KYXYajebIigkNyjzYxnSN8UjNMtUSh.MQJrkYQ5yys4bdv_)
