@@ -10,6 +10,9 @@ We will cover the following topics:
 * October 31: [Applying themes in ggplot2](https://github.com/hscarter/ggplot2_Themes_Workshop)
 * November 7: [Writing your own functions](https://github.com/ritika-giri/R-workshop-writing-your-own-functions)
 * November 14: [Intro to parallel processing](https://github.com/ritika-giri/R-workshop-intro-to-parallel-processing)
+* January 16: [Intro to Shiny](https://github.com/nuitrcs/IntroToRShiny)
+* January 23: [Intro to Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
+* February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
 
 Click on the topics above to navigate to the linked GitHub repository.
 
