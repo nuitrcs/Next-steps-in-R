@@ -3,6 +3,7 @@
 This workshop is being offered virtually every Tuesday at 12pm Central by [Northwestern IT Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
 
 We will cover the following topics:
+
 __Fall 2023__
 * October 10: [RStudio projects and other special features of the app](https://github.com/hscarter/RStudio_Workshop) 
 * October 17: [Using Git in RStudio for version control](https://github.com/nuitrcs/git-RStudio)
