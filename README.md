@@ -6,6 +6,7 @@ We will cover the following topics:
 
 <details>
   <summary><b>Fall 2023</b></summary>
+  ### 
   * October 10: [RStudio projects and other special features of the app](https://github.com/hscarter/RStudio_Workshop) 
   * October 17: [Using Git in RStudio for version control](https://github.com/nuitrcs/git-RStudio)
   * October 24: [Making multi-panel figures with ggplot2](https://github.com/hscarter/Multipanel_Figures_Workshop)
