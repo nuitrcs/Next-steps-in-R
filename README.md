@@ -6,7 +6,7 @@ We will cover the following topics:
 
 <details>
   <summary><b>Fall 2023</b></summary>
-  ### 
+   
   * October 10: [RStudio projects and other special features of the app](https://github.com/hscarter/RStudio_Workshop) 
   * October 17: [Using Git in RStudio for version control](https://github.com/nuitrcs/git-RStudio)
   * October 24: [Making multi-panel figures with ggplot2](https://github.com/hscarter/Multipanel_Figures_Workshop)
@@ -16,12 +16,13 @@ We will cover the following topics:
 </details>
 
 <details open>
-  <summary>__Fall 2023__</summary>
-__Winter 2024__
-* January 9: [Intro to bench](https://github.com/nuitrcs/NSIR-IntroToBench)
-* January 16: [Intro to Shiny](https://github.com/nuitrcs/IntroToRShiny)
-* January 23: [Intro to Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
-* February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
+  <summary><b>Winter 2024</b></summary>
+
+  ###
+  * January 9: [Intro to bench](https://github.com/nuitrcs/NSIR-IntroToBench)
+  * January 16: [Intro to Shiny](https://github.com/nuitrcs/IntroToRShiny)
+  * January 23: [Intro to Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
+  * February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
 </details>
 
 Click on the topics above to navigate to the linked GitHub repository.
