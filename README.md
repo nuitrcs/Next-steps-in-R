@@ -23,6 +23,7 @@ We will cover the following topics:
   * January 9: [Intro to bench](https://github.com/nuitrcs/NSIR-IntroToBench)
     * Recording [here](https://northwestern.zoom.us/rec/share/rgVxfTaRx1BiY8kmhL5EYlLWBrFKCKeqOlwyyOLBBUVDF-bh-taX4fkLyNTKG7_C.9wnP_mqt3CnkmG0C)
   * January 16: [Intro to Shiny](https://github.com/nuitrcs/IntroToRShiny)
+    * Recording [here](https://northwestern.zoom.us/rec/share/wcuRG1besyEMKlT0hjmrfGbcQ0D6brY-aVXc0C5uEWtZfz5iWpx9p74EQP7qLQ7J.M4PGk4yf5nUNncBV)
   * January 23: [Intro to Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
   * February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
 </details>
