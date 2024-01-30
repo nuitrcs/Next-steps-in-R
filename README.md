@@ -27,6 +27,7 @@ We will cover the following topics:
   * January 23: [Intro to Flexdashboard](https://github.com/nuitrcs/IntroToFlexdashboard)
     * Recording [here](https://northwestern.zoom.us/rec/share/p09zRwTHbbJO1O-Uks8pbj-_0TWNQJHy9SjOFlWeCk_QICrYF_ICVfZnjmdwL_pa.5wh6k3fIZFQpEyHy)
   * January 30: [Intro to linear mixed effects models (lme4)](https://github.com/nuitrcs/mixed_models)
+    * Recording [here](https://northwestern.zoom.us/rec/share/THGQks4WonRAxRE0rGUIt4lfUnXzU-9kOncOD5UMckDhCMu7UJn550q8dMUGoopv.uOWwFwJRDqD_0Dd5)
   * February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
 </details>
 
