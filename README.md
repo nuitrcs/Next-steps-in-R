@@ -28,6 +28,8 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/p09zRwTHbbJO1O-Uks8pbj-_0TWNQJHy9SjOFlWeCk_QICrYF_ICVfZnjmdwL_pa.5wh6k3fIZFQpEyHy)
   * January 30: [Intro to linear mixed effects models (lme4)](https://github.com/nuitrcs/mixed_models)
     * Recording [here](https://northwestern.zoom.us/rec/share/THGQks4WonRAxRE0rGUIt4lfUnXzU-9kOncOD5UMckDhCMu7UJn550q8dMUGoopv.uOWwFwJRDqD_0Dd5)
+  * February 6: [Debugging tools](https://github.com/nuitrcs/debuggingWithR)
+    * Recording [here](https://northwestern.zoom.us/rec/share/I9zmxn9Ih4Us7fc21einGXpIZ7xMDY76EdRngknD5b2urmTfjZwGsLyLekfo5k6s.3VnqStoWswa5kPxW)
   * February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
 </details>
 
