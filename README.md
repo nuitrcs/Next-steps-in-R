@@ -31,6 +31,7 @@ We will cover the following topics:
   * February 6: [Debugging tools](https://github.com/nuitrcs/debuggingWithR)
     * Recording [here](https://northwestern.zoom.us/rec/share/I9zmxn9Ih4Us7fc21einGXpIZ7xMDY76EdRngknD5b2urmTfjZwGsLyLekfo5k6s.3VnqStoWswa5kPxW)
   * February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
+    * Recording [here](https://northwestern.zoom.us/rec/share/oSWtRLnrVV8UN7AdXDyC5zDf1ZGN-D9d4iHnSHPySuXHTnOQRvlWqfIsIGOoL_QR.SGqyAsIetYnC-3GF)
 </details>
 
 Click on the topics above to navigate to the linked GitHub repository.
