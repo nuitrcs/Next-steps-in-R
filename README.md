@@ -32,6 +32,7 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/I9zmxn9Ih4Us7fc21einGXpIZ7xMDY76EdRngknD5b2urmTfjZwGsLyLekfo5k6s.3VnqStoWswa5kPxW)
   * February 13: [Intro to Quarto](https://github.com/nuitrcs/IntroToQuarto)
     * Recording [here](https://northwestern.zoom.us/rec/share/oSWtRLnrVV8UN7AdXDyC5zDf1ZGN-D9d4iHnSHPySuXHTnOQRvlWqfIsIGOoL_QR.SGqyAsIetYnC-3GF)
+  * February 20: [Package Management in R](https://github.com/nuitrcs/NSIR-package-management)
 </details>
 
 Click on the topics above to navigate to the linked GitHub repository.
