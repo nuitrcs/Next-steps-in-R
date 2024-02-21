@@ -34,7 +34,7 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/oSWtRLnrVV8UN7AdXDyC5zDf1ZGN-D9d4iHnSHPySuXHTnOQRvlWqfIsIGOoL_QR.SGqyAsIetYnC-3GF)
   * February 20: [Package Management in R](https://github.com/nuitrcs/NSIR-package-management)
     * Recording [here](https://northwestern.zoom.us/rec/share/6LtJEbor8fAahObtWuRLvlM0oK9pMGG-II1pDuDOqtl_tpsxSGUuFmwVjEgiqrzH.y7V6V5vCGoZCe709)
-  * February 27: [Bootstrappong with R](https://github.com/nuitrcs/NSIR-bootstrapping)
+  * February 27: [Bootstrapping with R](https://github.com/nuitrcs/NSIR-bootstrapping)
 </details>
 
 Click on the topics above to navigate to the linked GitHub repository.
