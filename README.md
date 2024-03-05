@@ -37,6 +37,7 @@ We will cover the following topics:
   * February 27: [Bootstrapping with R](https://github.com/nuitrcs/NSIR-bootstrapping)
     * Recording [here](https://northwestern.zoom.us/rec/share/wJIRGSUfwxdr0Kbb-1naWJ81489rWjl9mkK5kc9Qh-aeOoxrMLfLnkIoCLmvkiwI.CwxUF7sUf-iEstxM)
   * March 5: [Handling Missingness with R](https://github.com/nuitrcs/NSIR-handling-missingness)
+    * Recording [here](https://northwestern.zoom.us/rec/share/057whOEyIIDB04b785c3uqQzPjIJOClzqOWQPb37VW4PpRbMSgU74wH3xuCyke4Y.NwIczQgoq6rZPIDG)
 </details>
 
 Click on the topics above to navigate to the linked GitHub repository.
