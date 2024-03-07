@@ -40,6 +40,14 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/057whOEyIIDB04b785c3uqQzPjIJOClzqOWQPb37VW4PpRbMSgU74wH3xuCyke4Y.NwIczQgoq6rZPIDG)
 </details>
 
+<details open>
+  <summary><b>Winter 2024</b></summary>
+
+  ###
+* April 16: [Predictive modeling with tidymodels: day 1](https://github.com/nuitrcs/tidymodels)
+
+</details>
+
 Click on the topics above to navigate to the linked GitHub repository.
 
 
