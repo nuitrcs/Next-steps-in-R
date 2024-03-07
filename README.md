@@ -41,7 +41,7 @@ We will cover the following topics:
 </details>
 
 <details open>
-  <summary><b>Winter 2024</b></summary>
+  <summary><b>Spring 2024</b></summary>
 
   ###
 * April 16: [Predictive modeling with tidymodels: day 1](https://github.com/nuitrcs/tidymodels)
