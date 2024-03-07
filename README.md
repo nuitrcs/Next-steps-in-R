@@ -16,7 +16,7 @@ We will cover the following topics:
   * November 14: [Intro to parallel processing](https://github.com/ritika-giri/R-workshop-intro-to-parallel-processing)
 </details>
 
-<details open>
+<details>
   <summary><b>Winter 2024</b></summary>
 
   ###
