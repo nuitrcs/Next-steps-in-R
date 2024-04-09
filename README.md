@@ -44,6 +44,7 @@ We will cover the following topics:
   <summary><b>Spring 2024</b></summary>
 
   ###
+* April 9: [Creating Publishable Tables in R Markdown with flextable](https://github.com/nuitrcs/NSIR-flextable)
 * April 16: [Predictive modeling with tidymodels: day 1](https://github.com/nuitrcs/tidymodels)
 
 </details>
