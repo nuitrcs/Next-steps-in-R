@@ -48,7 +48,7 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/ulmknXA_UszEUuKnVeMPoY7hSHKKeAHRM7IWz9DVCRZ6CTwvgDaMXOXhh2gBqp9I.gM7xQJkpOsTChnla)
 * April 16: [Predictive modeling with tidymodels: day 1](https://github.com/nuitrcs/tidymodels)
     * Recording [here](https://northwestern.zoom.us/rec/share/JHo_av-07nlAUn9D__44Hpl30f_EVZNGyLjUjTt2NvdKLcpt3seoerwdKCM1V_RD.BaLtMRdLNH49Brz6)
-* April 23: [Predictive modeling with tidymodels: day 1](https://github.com/nuitrcs/tidymodels)
+* April 23: [Predictive modeling with tidymodels: day 2](https://github.com/nuitrcs/tidymodels)
 
 </details>
 
