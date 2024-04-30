@@ -51,6 +51,7 @@ We will cover the following topics:
 * April 23: [Predictive modeling with tidymodels: day 2](https://github.com/nuitrcs/tidymodels)
     * Recording [here](https://northwestern.zoom.us/rec/share/d_V_BpXh9Et04cjZCbtOigMXd3bI6p4RnIa_htVqaRlusElFeXdbyJe72fbgQDi1.04dmBwQzEGtlHDvK)
 * April 30: [Working with Excel Files](https://github.com/nuitrcs/working-with-Excel-files)
+    * Recording [here](https://northwestern.zoom.us/rec/share/aayIOBqwAbowhtAzYlJsae5TaWn7RqFnPLl-NEZRYyUI1tUbcCwHjfGFv9hk05LT.YU0jASWCRVCSeykJ)
 
 </details>
 
