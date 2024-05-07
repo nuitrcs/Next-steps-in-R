@@ -53,6 +53,7 @@ We will cover the following topics:
 * April 30: [Working with Excel Files](https://github.com/nuitrcs/working-with-Excel-files)
     * Recording [here](https://northwestern.zoom.us/rec/share/aayIOBqwAbowhtAzYlJsae5TaWn7RqFnPLl-NEZRYyUI1tUbcCwHjfGFv9hk05LT.YU0jASWCRVCSeykJ)
 * May 7: [Interacting with Databases](https://github.com/nuitrcs/NSIR-interact-with-database)
+    * Recording [here](https://northwestern.zoom.us/rec/share/O_48LZmdnUtwrwofOlyYPFt3JyH_3pPinw8BleA8_AtD09TOpRibrDuH8lLFHlJH.ZWHe3UB2aMwZUhRl)
 * May 14: [Scraping with Rvest](https://github.com/nuitrcs/web_scraping_r)
 
 </details>
