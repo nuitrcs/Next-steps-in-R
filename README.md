@@ -55,6 +55,7 @@ We will cover the following topics:
 * May 7: [Interacting with Databases](https://github.com/nuitrcs/NSIR-interact-with-database)
     * Recording [here](https://northwestern.zoom.us/rec/share/O_48LZmdnUtwrwofOlyYPFt3JyH_3pPinw8BleA8_AtD09TOpRibrDuH8lLFHlJH.ZWHe3UB2aMwZUhRl)
 * May 14: [Scraping with Rvest](https://github.com/nuitrcs/web_scraping_r)
+    * Recording [here](https://northwestern.zoom.us/rec/share/2WcqobuWd0YYCBIWJLhaaAPhRvLlaslrTXTtxAKpvyFd9OMV63ZuUvDBczS6-nGA.wmL9Rc424OJ8uy3s)
 
 </details>
 
