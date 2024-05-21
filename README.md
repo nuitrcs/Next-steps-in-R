@@ -57,6 +57,7 @@ We will cover the following topics:
 * May 14: [Scraping with Rvest](https://github.com/nuitrcs/web_scraping_r)
     * Recording [here](https://northwestern.zoom.us/rec/share/2WcqobuWd0YYCBIWJLhaaAPhRvLlaslrTXTtxAKpvyFd9OMV63ZuUvDBczS6-nGA.wmL9Rc424OJ8uy3s)
 * May 21: [Writing Reusable R code](https://github.com/nuitrcs/NSIR-writing-reusable-code)
+    * Recording [here](https://northwestern.zoom.us/rec/share/UkX5Yf9azfuH01KrrE6CoAp_rwRKx6iTHu3ZpJbbidicf7dQXg94n_aGWKCzno0i.9lMGefs1ff1oY6_3)
 
 </details>
 
