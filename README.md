@@ -4,6 +4,8 @@ This repo is the landing page for the Next Steps in R workshops offered by [Rese
 
 # Workshops offered
 
+Click on the workshops below to navigate to the linked GitHub repository.
+
 <details>
   <summary><b>Fall 2023</b></summary>
 
@@ -68,8 +70,6 @@ This repo is the landing page for the Next Steps in R workshops offered by [Rese
 
 
 </details>
-
-Click on the workshops above to navigate to the linked GitHub repository.
 
 # Materials and Setup
 
