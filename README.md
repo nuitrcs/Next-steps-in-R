@@ -2,6 +2,8 @@
 
 This repo is the landing page for the Next Steps in R workshops offered by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
 
+# Workshops offered
+
 <details>
   <summary><b>Fall 2023</b></summary>
 
