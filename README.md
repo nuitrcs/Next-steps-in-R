@@ -40,7 +40,7 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/057whOEyIIDB04b785c3uqQzPjIJOClzqOWQPb37VW4PpRbMSgU74wH3xuCyke4Y.NwIczQgoq6rZPIDG)
 </details>
 
-<details open>
+<details>
   <summary><b>Spring 2024</b></summary>
 
   ###
@@ -58,6 +58,14 @@ We will cover the following topics:
     * Recording [here](https://northwestern.zoom.us/rec/share/2WcqobuWd0YYCBIWJLhaaAPhRvLlaslrTXTtxAKpvyFd9OMV63ZuUvDBczS6-nGA.wmL9Rc424OJ8uy3s)
 * May 21: [Writing Reusable R code](https://github.com/nuitrcs/NSIR-writing-reusable-code)
     * Recording [here](https://northwestern.zoom.us/rec/share/UkX5Yf9azfuH01KrrE6CoAp_rwRKx6iTHu3ZpJbbidicf7dQXg94n_aGWKCzno0i.9lMGefs1ff1oY6_3)
+
+</details>
+
+<details open>
+  <summary><b>Fall 2024</b></summary>
+
+  ###
+
 
 </details>
 
