@@ -67,7 +67,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Fall 2024</b></summary>
 
   ###
-* October 1: [Interactive with Databases](https://github.com/nuitrcs/NSIR-interact-with-database)
+* October 1: [Interacting with Databases](https://github.com/nuitrcs/NSIR-interact-with-database)
 
 
 </details>
