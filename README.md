@@ -68,6 +68,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * October 1: [Interacting with Databases](https://github.com/nuitrcs/NSIR-interact-with-database)
+    * Recording [here](https://northwestern.zoom.us/rec/share/brymdzxyR9YxQfBOLsKIwozUHNKHJZ5wBx0WEOVR2abSij1p3zSDj52GjFnEuhR-.pydyOx0t05Sg5nus)
 
 
 </details>
