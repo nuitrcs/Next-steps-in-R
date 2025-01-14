@@ -63,7 +63,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Fall 2024</b></summary>
 
   ###
@@ -71,6 +71,17 @@ Click on the workshops below to navigate to the linked GitHub repository.
     * Recording [here](https://northwestern.zoom.us/rec/share/brymdzxyR9YxQfBOLsKIwozUHNKHJZ5wBx0WEOVR2abSij1p3zSDj52GjFnEuhR-.pydyOx0t05Sg5nus)
 * October 29: [Writing your own functions](https://github.com/ritika-giri/R-workshop-writing-your-own-functions)
     * Recording [here](https://northwestern.zoom.us/rec/share/3e4qxSWfebSHuK1cRtP_OU_30oh20YIYuMlbnstrti8J1tKTzUiK4k65Qoil7C5H.nIrOgUx8e19O-71b)
+
+
+</details>
+
+<details open>
+  <summary><b>Winter 2025</b></summary>
+
+  ###
+* January 14: [Package Management](https://github.com/nuitrcs/NSIR-package-management)
+    * Recording [here](https://northwestern.zoom.us/rec/share/DcghRFECCbSriVW4KZabqXL1AyMgGSKd6JatDhs6O1NRLWRLPe65YvYWCE2aKQ5W.OisWBuQ2GIZKx_HU)
+
 
 
 </details>
