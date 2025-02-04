@@ -81,6 +81,8 @@ Click on the workshops below to navigate to the linked GitHub repository.
   ###
 * January 14: [Package Management](https://github.com/nuitrcs/NSIR-package-management)
     * Recording [here](https://northwestern.zoom.us/rec/share/DcghRFECCbSriVW4KZabqXL1AyMgGSKd6JatDhs6O1NRLWRLPe65YvYWCE2aKQ5W.OisWBuQ2GIZKx_HU)
+ 
+* February 4: [Reduce Code Duplication with purrr](https://github.com/danielencinaszevallos/intro_purrr)
 
 
 
