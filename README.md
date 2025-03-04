@@ -84,7 +84,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 * February 4: [Reduce Code Duplication with purrr](https://github.com/nuitrcs/NSIR-intro-purrr)
     * Recording [here](https://northwestern.zoom.us/rec/share/dFfjZRQCbf4VCDOB3YUs0MoSBB1GFd3DCxmX-jX4aWA3KrRiZmfl3eYEfw5ME9Rg.YdcPZXLCj95fbKuN)
 * March 4: [Web Scraping Using Rvest](https://github.com/nuitrcs/web_scraping_r)
-    * Recording [TBD](TBD)
+    * Recording [here](https://northwestern.zoom.us/rec/share/KPfyrCDHyatkcaV_cT1F4_aE_bhZPXHTSBPaExDRqRdlSnKAiIuaVps_b0ddw8zj.cVVPfX1qc-5v-d1s)
 
 </details>
 
