@@ -75,7 +75,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Winter 2025</b></summary>
 
   ###
@@ -85,6 +85,14 @@ Click on the workshops below to navigate to the linked GitHub repository.
     * Recording [here](https://northwestern.zoom.us/rec/share/dFfjZRQCbf4VCDOB3YUs0MoSBB1GFd3DCxmX-jX4aWA3KrRiZmfl3eYEfw5ME9Rg.YdcPZXLCj95fbKuN)
 * March 4: [Web Scraping Using Rvest](https://github.com/nuitrcs/web_scraping_r)
     * Recording [here](https://northwestern.zoom.us/rec/share/KPfyrCDHyatkcaV_cT1F4_aE_bhZPXHTSBPaExDRqRdlSnKAiIuaVps_b0ddw8zj.cVVPfX1qc-5v-d1s)
+
+</details>
+
+<details open>
+  <summary><b>Spring 2025</b></summary>
+
+  ###
+* May 6: [Intro to Text Analysis](https://github.com/nuitrcs/NSIR-into-text-analysis)
 
 </details>
 
