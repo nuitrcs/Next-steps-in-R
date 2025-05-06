@@ -92,7 +92,8 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Spring 2025</b></summary>
 
   ###
-* May 6: [Intro to Text Analysis](https://github.com/nuitrcs/NSIR-into-text-analysis)
+* May 6: [Introduction to Text Analysis](https://github.com/nuitrcs/NSIR-into-text-analysis)
+    * Recording [here](https://northwestern.zoom.us/rec/share/KSWe8BYLFH_vPJ5sQ19PrhRgT5ITwnSypXi0_yfiYS65eBdqQsQER1K1x8RE_H06.7Y2_1y248qwN3lDk)
 
 </details>
 
