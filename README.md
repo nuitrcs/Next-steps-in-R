@@ -95,6 +95,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 * May 6: [Introduction to Text Analysis](https://github.com/nuitrcs/NSIR-into-text-analysis)
     * Recording [here](https://northwestern.zoom.us/rec/share/KSWe8BYLFH_vPJ5sQ19PrhRgT5ITwnSypXi0_yfiYS65eBdqQsQER1K1x8RE_H06.7Y2_1y248qwN3lDk)
 * June 3: [Interactive Plotting with Plotly](https://github.com/nuitrcs/NSIR-plotly)
+    * Recording [here](https://northwestern.zoom.us/rec/share/1hVloUmPqwUnnP5VTEv6NrErWCoo-5RElS63_R1BHXr-friRtYhhzI1O3qSpLDoX.BFrjjJ-pjvJBDOE2)
 
 </details>
 
