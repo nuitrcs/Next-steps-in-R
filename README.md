@@ -99,12 +99,20 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
   <summary><b>Fall 2025</b></summary>
 
   ###
 * September 30: [Using Git in RStudio for Version Control](https://github.com/nuitrcs/git-RStudio)
     * Recording [here](https://northwestern.zoom.us/rec/share/lkm-PN3O8oxeOIkG6Zx2RC2eOa2cMO5aRrt9zYbIeDLOP8C0Ilt7eySsuB5uujU1.JNxr4UNxaQDzSV_e)
+
+</details>
+
+<details>
+  <details open>
+  <summary><b>Winter 2026</b></summary>
+
+  ###
+* February 9: [Package Management in R](https://github.com/nuitrcs/NSIR-package-management)
 
 </details>
 
