@@ -99,6 +99,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
+<details>
 <summary><b>Fall 2025</b></summary>
 
   ###
@@ -107,7 +108,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Winter 2026</b></summary>
 
   ###
