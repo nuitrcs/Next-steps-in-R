@@ -99,7 +99,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-  <summary><b>Fall 2025</b></summary>
+<summary><b>Fall 2025</b></summary>
 
   ###
 * September 30: [Using Git in RStudio for Version Control](https://github.com/nuitrcs/git-RStudio)
@@ -108,8 +108,8 @@ Click on the workshops below to navigate to the linked GitHub repository.
 </details>
 
 <details>
-  <details open>
-  <summary><b>Winter 2026</b></summary>
+<details open>
+<summary><b>Winter 2026</b></summary>
 
   ###
 * February 9: [Package Management in R](https://github.com/nuitrcs/NSIR-package-management)
