@@ -108,12 +108,20 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
 <summary><b>Winter 2026</b></summary>
 
   ###
 * February 9: [Package Management in R](https://github.com/nuitrcs/NSIR-package-management)
     * Recording [here](https://northwestern.zoom.us/rec/share/DiL_ZUMBLhXMSspq0iqQSnoQqP4rvnr660wa1b_S8fd0I6Ml7vQ2P5N2KnxZhpuH.YkzkiiYxnVSJmM24)
+
+</details>
+
+<details open>
+<summary><b>Spring 2026</b></summary>
+
+  ###
+* April 6: [Building Interactive Dashboards with Shiny](https://github.com/nuitrcs/IntroToRShiny)
 
 </details>
 
