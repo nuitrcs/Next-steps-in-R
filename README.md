@@ -122,6 +122,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * April 6: [Building Interactive Dashboards with Shiny](https://github.com/nuitrcs/IntroToRShiny)
+    * Recording [here](https://northwestern.zoom.us/rec/share/MQAi-MLKTt7cxsFITFBu8rS09UWwWT-0tN11_IZnDPeJO-fNT4ECg8QHsRaNDOE.kEkPrerkSnW_i66v)
 
 </details>
 
